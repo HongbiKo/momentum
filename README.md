@@ -1,2 +1,2 @@
 # momentum
-clone coding form Nomad Coders
+clone coding from Nomad Coders
