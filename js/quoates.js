@@ -32,8 +32,8 @@ const quotes = [
     author: "Michael Corleone",
   },
   {
-    quote: "당신이 할수 있다고 믿든 할수 없다고 믿든 믿는 대로 될것이다.",
-    author: "헨리포드",
+    quote: "Whatever you are, be a good one.",
+    author: "Abraham Lincoln	",
   },
   {
     quote: "Knowledge is power.",
