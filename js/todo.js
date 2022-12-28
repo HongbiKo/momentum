@@ -50,7 +50,7 @@ toDoForm.addEventListener("submit", handleToDoSubmit);
 const savedTodos = localStorage.getItem(TODOS_KEY);
 
 if (savedTodos !== null) {
-  const parsedTodos = JSON.parse(savedTodos);
+  const parsedTodos = JSON.parse(savedTodos); //array로 만들어야 foreach api나 filter api 쓸 수 있잖아용
   toDos = parsedTodos;
   parsedTodos.forEach(paintTodo);
 }
