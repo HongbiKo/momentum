@@ -180,3 +180,17 @@ h3 {
   font-size: var(--font-middle);
   background-color: rgba(255,255,255,.2);
 }
+
+@media screen and (max-width: 768px) {
+
+  :root {
+    /* Font Size */
+    --font-large: 30px;
+    --font-medium: 20px;
+    --font-middle: 18px;
+    --font-regular: 14px;
+    --font-small: 12px;
+    --font-micro: 10px;
+  }
+
+}
